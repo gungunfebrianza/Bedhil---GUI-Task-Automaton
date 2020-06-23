@@ -5,7 +5,7 @@
 
 
 
-![](Bedhil---GUI-Task-Automaton/Logo.jpg)
+![]()<img src="Logo.jpg" alt="Logo" style="zoom:47%;" />
 
 ### Features :
 
@@ -17,4 +17,4 @@
 - [x] Create No Window Configuration
 - [x] Hide in Tray Icon
 
-![]()<img src="Bedhil---GUI-Task-Automaton/Cover.png" alt="Cover" style="zoom:67%;" />
+![]()<img src="Cover.png" alt="Cover" style="zoom:47%;" />

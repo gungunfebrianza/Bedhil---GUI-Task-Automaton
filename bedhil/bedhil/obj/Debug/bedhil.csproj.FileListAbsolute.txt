@@ -9,3 +9,14 @@ C:\Users\Gun Gun Febrianza\source\repos\bedhil\bedhil\obj\Debug\bedhil.csproj.Co
 C:\Users\Gun Gun Febrianza\source\repos\bedhil\bedhil\obj\Debug\bedhil.exe
 C:\Users\Gun Gun Febrianza\source\repos\bedhil\bedhil\obj\Debug\bedhil.pdb
 C:\Users\Gun Gun Febrianza\source\repos\bedhil\bedhil\obj\Debug\bedhil.Form2.resources
+C:\Users\Gun Gun Febrianza\Pictures\Bedhil---GUI-Task-Automaton\bedhil\bedhil\bin\Debug\bedhil.exe.config
+C:\Users\Gun Gun Febrianza\Pictures\Bedhil---GUI-Task-Automaton\bedhil\bedhil\bin\Debug\bedhil.exe
+C:\Users\Gun Gun Febrianza\Pictures\Bedhil---GUI-Task-Automaton\bedhil\bedhil\bin\Debug\bedhil.pdb
+C:\Users\Gun Gun Febrianza\Pictures\Bedhil---GUI-Task-Automaton\bedhil\bedhil\obj\Debug\bedhil.csprojAssemblyReference.cache
+C:\Users\Gun Gun Febrianza\Pictures\Bedhil---GUI-Task-Automaton\bedhil\bedhil\obj\Debug\bedhil.Form1.resources
+C:\Users\Gun Gun Febrianza\Pictures\Bedhil---GUI-Task-Automaton\bedhil\bedhil\obj\Debug\bedhil.Form2.resources
+C:\Users\Gun Gun Febrianza\Pictures\Bedhil---GUI-Task-Automaton\bedhil\bedhil\obj\Debug\bedhil.Properties.Resources.resources
+C:\Users\Gun Gun Febrianza\Pictures\Bedhil---GUI-Task-Automaton\bedhil\bedhil\obj\Debug\bedhil.csproj.GenerateResource.cache
+C:\Users\Gun Gun Febrianza\Pictures\Bedhil---GUI-Task-Automaton\bedhil\bedhil\obj\Debug\bedhil.csproj.CoreCompileInputs.cache
+C:\Users\Gun Gun Febrianza\Pictures\Bedhil---GUI-Task-Automaton\bedhil\bedhil\obj\Debug\bedhil.exe
+C:\Users\Gun Gun Febrianza\Pictures\Bedhil---GUI-Task-Automaton\bedhil\bedhil\obj\Debug\bedhil.pdb

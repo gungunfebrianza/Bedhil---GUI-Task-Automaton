@@ -99,7 +99,29 @@ namespace bedhil
 
         private void executeTaskRunnerToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            buttonShoot.PerformClick();
+            for (int i = 0; i < listView1.Items.Count; i++)
+            {
+                Process process = new Process();
+                ProcessStartInfo startInfo = new ProcessStartInfo();
+                if (cBNoWindow.Checked == true)
+                {
+                    startInfo.CreateNoWindow = true;
+                    startInfo.FileName = "cmd.exe";
+                    startInfo.WorkingDirectory = @listView1.Items[i].SubItems[1].Text;
+                    startInfo.Arguments = "/c " + listView1.Items[i].SubItems[2].Text;
+                    process.StartInfo = startInfo;
+                    process.Start();
+                }
+                else
+                {
+                    startInfo.CreateNoWindow = false;
+                    startInfo.FileName = "cmd.exe";
+                    startInfo.WorkingDirectory = @listView1.Items[i].SubItems[1].Text;
+                    startInfo.Arguments = "/c " + listView1.Items[i].SubItems[2].Text;
+                    process.StartInfo = startInfo;
+                    process.Start();
+                }
+            }
         }
 
         private void loadConfigurationToolStripMenuItem_Click(object sender, EventArgs e)
